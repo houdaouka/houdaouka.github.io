@@ -1,0 +1,43 @@
+body{
+	margin:0;
+	padding : 0px;
+}
+header{
+	padding: 0px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin : 0px;
+	height : 50px;
+	width : 100%;
+	display : flex;
+	justify-content: center;
+	align-items: center;
+
+	
+}
+
+all {
+	display : flex;
+	background-color : #978E8E;
+	padding : 5px;
+	margin-top : 10px;
+	justify-content : space-around;
+	align-items: center;
+}
+
+#footer{
+	background-color: grey
+	padding : 0px;
+	margin : 0px;
+}
+
+#corps{
+	background-color: grey;
+	display : flex;
+	padding : 5px;
+	margin-top : 10px;
+	justify-content : space-around;
+	align-items: center;
+}
+}
